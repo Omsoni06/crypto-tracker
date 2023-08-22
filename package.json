@@ -1,7 +1,7 @@
 {
   "name": "crypto-tracker",
   "version": "0.1.0",
-  "homepage": "http://{omsoni06}.github.io/{Crypto-tracker}",
+  "homepage": "http://omsoni06.github.io/crypto-tracker",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
